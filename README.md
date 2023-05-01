@@ -7,7 +7,7 @@ I am Rodrigo Castañón, a computer science student from Madrid, Spain. I am a t
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=postgre)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgre)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Angular](https://img.shields.io/badge/Angular-06062C?style=flat-square&logo=angular)
