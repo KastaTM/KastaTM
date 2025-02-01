@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Rodrigo Castañón, a computer science student from Madrid, Spain. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas.
+I am Rodrigo Castañón, a MSc Data Science student from Madrid, Spain. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas.
 
 ## 🚀💻 Technologies & Tools
 
