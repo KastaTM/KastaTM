@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I am Rodrigo Castañón, a MSc Data Science student from Madrid, Spain. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas.
+I am Rodrigo Castañón, Data Scientist with a Bachelor in Computer Science and a Master’s in Data Science. Experienced in developing advanced analytics and AI solutions for global engineering and operations. 
+I am a committed, versatile, and proactive professional with a strong enthusiasm for learning and developing my skills in data. Always open to collaborating on projects and innovative/disruptive ideas.
+
+
 
 ## 🚀💻 Technologies & Tools
 
@@ -14,8 +17,5 @@ I am Rodrigo Castañón, a MSc Data Science student from Madrid, Spain. I am a t
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ## ⚡ GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=KastaTM&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KastaTM&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KastaTM.KastaTM)
